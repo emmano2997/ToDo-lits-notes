@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ToDo",
-    "slug": "ToDo",
+    "name": "ToDo-lits-notes",
+    "slug": "ToDo-lits-notes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
